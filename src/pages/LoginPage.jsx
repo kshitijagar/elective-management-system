@@ -126,7 +126,7 @@ const LoginPage = () => {
             <br></br>
             <Link to="/SignupPage">
               <button>
-                Already have an account? <h1 className="text-blue-600">Signup</h1>
+                Don't have an account? <h1 className="text-blue-600">Signup</h1>
               </button>
             </Link>
           </div>
